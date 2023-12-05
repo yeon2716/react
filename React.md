@@ -8,15 +8,22 @@
 
 ![image](https://github.com/yeon2716/web111/assets/145514579/6e2f0e9e-6293-41e7-9422-3e0e8c612f9f)
 
+
+
  윈도우 버튼  cmd 입력 -  명령 프롬프르 - 관리자 권한으로 열기
+
+
 
 ![image](https://github.com/yeon2716/web111/assets/145514579/514b32e2-10ea-4409-a078-0e78e77de420)  
 
 * node.js 사이트에서 설치파일을 다운받고 그것을 설치한다.
 
 * cmd 화면에서
+* 
 
 * node -v 입력 ---> 아래 버전이 나오면 설치 완료된것이다.
+
+* 
 ![image](https://github.com/yeon2716/web111/assets/145514579/1b72c137-8182-4455-bc4e-980e68236036)
 
 * node.js를 설치하면 npm이 자동으로 설치됨
@@ -55,15 +62,25 @@
 
  -
 - react 기본구조 만들기 (VSC 확장프로그램에서 REACT 검색
+
+- 
 ![image](https://github.com/yeon2716/web111/assets/145514579/d22e5c4d-5431-4a9a-b4a8-15b4ad96eb00)
 
 
 - react 코드 정렬
+
+- 
 ![image](https://github.com/yeon2716/web111/assets/145514579/a5c77f07-4987-42bf-80dd-1edc4b94f3af)
 
 - format save 설정하기
+
+- 
 ![image](https://github.com/yeon2716/web111/assets/145514579/66da54bb-85ac-4b8e-9024-a474e4def714)
+
+
 ![image](https://github.com/yeon2716/web111/assets/145514579/4450d290-f0ca-4b04-9a96-c2b986420256)
+
+
 ![image](https://github.com/yeon2716/web111/assets/145514579/c3bf771d-d659-4c8a-8d6a-f624125a4d8b)
 
 
