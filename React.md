@@ -52,7 +52,19 @@
   - 페이지를 매번 새로 가져올 필요가 없다. 웹사이트를 모바일처럼 사용할 수 있음.
   - 
 
-# VSC 확장프로그램에서 REACT 검색
+
+ -
+- react 기본구조 만들기 (VSC 확장프로그램에서 REACT 검색
 ![image](https://github.com/yeon2716/web111/assets/145514579/d22e5c4d-5431-4a9a-b4a8-15b4ad96eb00)
 
- 
+
+- react 코드 정렬
+![image](https://github.com/yeon2716/web111/assets/145514579/a5c77f07-4987-42bf-80dd-1edc4b94f3af)
+
+- format save 설정하기
+![image](https://github.com/yeon2716/web111/assets/145514579/66da54bb-85ac-4b8e-9024-a474e4def714)
+![image](https://github.com/yeon2716/web111/assets/145514579/4450d290-f0ca-4b04-9a96-c2b986420256)
+![image](https://github.com/yeon2716/web111/assets/145514579/c3bf771d-d659-4c8a-8d6a-f624125a4d8b)
+
+
+
