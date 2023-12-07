@@ -10,3 +10,69 @@ https://react.dev/learn#writing-markup-with-jsx (위 내용 주소)
 - {}을 사용하지 않으면 변수가 그냥 문자로 출력된다.
 - 인라인스타일로 css를 작성할때 ==> 밖의 {}는 자바스크립트를 사용한다는 의미, 안의 {} 는 객채를 사용한다는 의미
 -  <div style={{ width: "300px", height: "200px" }}>추가하기</div>
+
+
+
+
+````
+
+import "./App.css";
+
+function App() {
+  const name = "강아지";
+  return (
+    <>
+      <div className="App">
+        <P>{`${name}시작하기`}</P>
+      </div>
+      <div style={{ width: "300px", height: "200px" }}>추가하기</div>
+    </>
+  );
+}
+
+export default App;
+
+````
+
+
+![image](https://github.com/yeon2716/web111/assets/145514579/de477567-6b5b-4041-90a1-2c3b09e930c0)
+
+
+
+
+
+
+
+````````
+import "./App.css";
+
+function App() {
+  const name = "강아지";
+  const list = ["기침", "감기", "약"];
+  return (
+    <>
+      <h1 className="dog">{name} 안녕같은 소리하고 자빠졌네!!</h1>
+      <h1 className="dog">{`${name} 안녕!!`}</h1>
+      <ul>
+        <li>기침</li>
+        <li>감기</li>
+        <li>약</li>
+      </ul>
+      <ul>
+        {/* {list.map((item) => {
+          return (<li>{item}</li>);
+        })} */}
+        {list.map((item) => (
+          <li>{item}</li>
+        ))}
+      </ul>
+      <img style={{width:"450px", height:" 500px"}}
+        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThvPP3oIAuYd30mub_XhlMzpoNuKQz_xYqPw&usqp=CAU"
+        alt="img"
+      ></img>
+    </>
+  );
+}
+
+export default App;
+```````````
