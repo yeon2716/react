@@ -19,6 +19,11 @@ useState(0)의 0은 num의 초기값
 ![image](https://github.com/yeon2716/react/assets/145514579/39d979ee-ba42-424b-8bcd-47b36243e94a)
 
 
+
+  : 기준으로 true 이면 앞에것 실행,  false 이면 뒤에것 실행
+
+
+  
   || --> 또는 A || B  둥중 하나라도 true 면 true   
   || 하나가 트루이면 검사하지 않음  고로 통과하지 못함
   
