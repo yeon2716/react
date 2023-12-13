@@ -7,3 +7,12 @@ num을 변하게 하는 함수 ==> setNum  --> 함수를 이용하여 num을 변
 useState(0)의 0은 num의 초기값
 
 ```
+
+
+![image](https://github.com/yeon2716/react/assets/145514579/04d12aa6-2806-4715-9135-4990eff0cc34)
+
+  || --> 또는 A || B  둥중 하나라도 true 면 true   
+  || 하나가 트루이면 검사하지 않음  고로 통과하지 못함
+  
+  && --> 그리고 A && B 둘중 하나라도 false 이면 false
+  하나라도 false이면 통과하기 때문에 화면에 뿌려짐
