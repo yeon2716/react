@@ -19,3 +19,38 @@ useState(0)의 0은 num의 초기값
   
   && --> 그리고 A && B 둘중 하나라도 false 이면 false
   하나라도 false이면 통과하기 때문에 화면에 뿌려짐
+
+
+
+
+
+#구조분해
+![image](https://github.com/yeon2716/react/assets/145514579/8db2278b-a868-4d44-8d1d-bc773733d1ac)
+--->결과 똑같음
+
+```
+//rafce
+
+import React from "react";
+
+const Profile = (img, name, title, isNew) => {
+  // console.log(props);
+  //const img = props.img;
+  // const name = props.name;
+  // const title = props.title;
+
+  // const {img,name,title}=props;
+  return (
+    <div className="profile">
+      <img src={img} alt="avatar" />
+      {/*  {props.isNew?<span className="new">신입</span>:""} */}
+      {isNew && <span className="new">신입</span>}
+      <h2>{name}</h2>
+      <p>{title}</p>
+    </div>
+  );
+};
+
+export default Profile;
+
+```
