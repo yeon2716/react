@@ -24,8 +24,10 @@ useState(0)의 0은 num의 초기값
 
 
 
-#구조분해
+# 🚚🚛구조분해
 ![image](https://github.com/yeon2716/react/assets/145514579/8db2278b-a868-4d44-8d1d-bc773733d1ac)
+
+
 --->결과 똑같음
 
 ```
