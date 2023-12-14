@@ -71,7 +71,7 @@ export default Profile;
 
 
 
-12월 14일
+//폴더 src2 참조
 
 ```
 import { useState } from "react";
