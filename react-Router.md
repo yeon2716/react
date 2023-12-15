@@ -18,5 +18,10 @@ about 붙여넣음
 
 ![image](https://github.com/yeon2716/react/assets/145514579/fa5ee3ec-33fd-4bc1-9827-6e0c4b82a185)
 
-![image](https://github.com/yeon2716/react/assets/145514579/be2b7832-f202-4f4c-819b-4509c7a341c6)  어바웃 붙여넣은 상태
+어바웃 붙여넣기 전
+
+
+![image](https://github.com/yeon2716/react/assets/145514579/be2b7832-f202-4f4c-819b-4509c7a341c6) 
+
+어바웃 붙여넣은 상태
 
