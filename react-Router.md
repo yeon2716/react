@@ -5,6 +5,9 @@ https://reactrouter.com/en/main/start/tutorial  ==> ROUTER 공식 페이지
 # 1-  설치하기 
   npm install react-router-dom
 
+
+# BrowserRouter 는 react 전체를 싸주어야한다.
+
   ![image](https://github.com/yeon2716/react/assets/145514579/ea619218-c7cc-4922-8378-0afdd262e056)
   Browser 앞에만 치고 엔터하면 import 까지 자동 입력된다.
   <App /> 이 화면의 모든 내용이기 때문에 Browser에 쌓이게 됨
