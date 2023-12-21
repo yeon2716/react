@@ -27,6 +27,8 @@
 
 
 
+ # useEffect() 가 종료되는 시점에 데이타가 변경된다. 
+![image](https://github.com/understanding963852/604react/assets/60366769/29163d0c-a805-4715-8d8b-b635de51d818)
 
 
 
