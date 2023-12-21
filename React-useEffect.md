@@ -1,4 +1,4 @@
-# useEffect
+# useEffect  -폴더 src4 참조  마지막꺼는 선생님꺼 참조
 
 # useEffect (()=>{},[])
 
