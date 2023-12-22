@@ -73,6 +73,10 @@ export default Profile;
 
 //폴더 src2 참조
 
+# 이전값 prev
+setNum((이전값)=> 이전값 + 1)
+
+
 ```
 import { useState } from "react";
 import "./App.css";
