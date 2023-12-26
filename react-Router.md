@@ -36,3 +36,15 @@ about 붙여넣음
 ![image](https://github.com/yeon2716/react/assets/145514579/397edbca-721a-445c-b62d-b69abd7837c9)
 
 🎁버튼을 클릭해서 
+
+
+
+
+![image](https://github.com/yeon2716/react/assets/145514579/6eff6283-e830-4a32-802d-96d5d76f38dc)
+
+
+아래와 같이 줄여쓸 수 있음
+
+
+![image](https://github.com/yeon2716/react/assets/145514579/4e8436a3-acff-414e-a05b-3cd71f61074c)
+
