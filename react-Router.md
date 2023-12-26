@@ -40,10 +40,13 @@ about 붙여넣음
 
 
 
+
+
+
 ![image](https://github.com/yeon2716/react/assets/145514579/6eff6283-e830-4a32-802d-96d5d76f38dc)
 
 
-아래와 같이 줄여쓸 수 있음
+아래와 같이 줄여씀
 
 
 ![image](https://github.com/yeon2716/react/assets/145514579/4e8436a3-acff-414e-a05b-3cd71f61074c)
