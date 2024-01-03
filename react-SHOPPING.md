@@ -49,9 +49,13 @@ npm install react-router-dom
 
 
 
+
 참고
 ![image](https://github.com/yeon2716/react/assets/145514579/a4f2bdfe-6e97-427d-ba2a-928986e164c6)
 
 
+
+# 반응형 비슷하게 작용  grid 조절
+![image](https://github.com/yeon2716/react/assets/145514579/e22aa4fc-c0a2-4895-95c1-fb7bd44f3638)
 
 
