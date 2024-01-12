@@ -18,3 +18,5 @@ http://localhost:3004/products/1
 
 
 ![image](https://github.com/yeon2716/react/assets/145514579/e6e53cbd-78a7-4d53-a3b9-97600476b644)
+
+ product?.img == product가 있으면 product.img를 출력하라
